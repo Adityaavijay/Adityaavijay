@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Angular
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... adityaavprofv@gmail.com [Email]
+- 📫 How to reach me: ... [Twitter] OSM_ElecAD @ElecAD1
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Living life on an edge!
 -->
