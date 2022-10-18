@@ -1,4 +1,4 @@
-### Hi there 👋, Here is currently what I'm working on.
+### Hey there 👋, This is Adityaa.
 
 <!--
 **Adityaavijay/Adityaavijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
